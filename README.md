@@ -14,27 +14,25 @@ Scalable and production-ready architecture.
 
 🚀 Tech Stack
 
-Frontend	Backend	AI Server	Database
-React.js	Node.js (Express)	DeepStack (Docker)	MongoDB
-
+Frontend Backend AI Server Database
+React.js Node.js (Express) DeepStack (Docker) MongoDB
 
 📂 Project Structure
 
 face-recognition-mern/
 ├── backend/
-│   ├── controllers/
-│   ├── routes/
-│   ├── uploads/
-│   ├── server.js
-│   ├── .env
-│   └── package.json
+│ ├── controllers/
+│ ├── routes/
+│ ├── uploads/
+│ ├── server.js
+│ ├── .env
+│ └── package.json
 ├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
+│ ├── src/
+│ ├── public/
+│ └── package.json
 ├── .gitignore
 ├── README.md
-
 
 🛠 Installation & Setup
 
@@ -67,7 +65,7 @@ face-recognition-mern/
 
 🏗 Deployment
 
-Service	Purpose
-Vercel	Deploy frontend (React)
-Render / Railway	Deploy backend (Node.js)
-DigitalOcean / AWS	Host DeepStack AI server
+    Service	Purpose
+    Vercel	Deploy frontend (React)
+    Render / Railway	Deploy backend (Node.js)
+    DigitalOcean / AWS	Host DeepStack AI server
